@@ -1,2 +1,2 @@
 # ZOE-CO-COMPANY-PERFORMANCE-ANALYSIS-FOR-THE-YEAR-2019
-An analysis of Sales Company for 2019
+This report basically represents comprehensive analysis of Zoe & Co company performance analysis for the year 2019 sales performance using Microsoft excel tool. it includes a deep analysis of the dataset to identify trends, patterns, and actionable insights across salespersons, customers, regions, products, and time periods etc. That can yield meaningful recommendations that and help to improve the business strategy.
